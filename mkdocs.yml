@@ -60,5 +60,7 @@ plugins:
 
 extra_css:
   - css/custom.css
+copyright: Copyright &copy; 2020 - 2024 Cleareye
+
 
 
